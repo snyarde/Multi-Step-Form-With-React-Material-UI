@@ -5,8 +5,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        {/* <UserForm /> */}
-        <h1>Yo</h1>
+        <UserForm />
       </div>
     );
   }
